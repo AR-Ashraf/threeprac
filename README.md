@@ -57,6 +57,8 @@
 
 Representation is very important to acquire the interest of people. And 3D models can help greatly in the perspective. This project is just an example on that niche.
 
+Check the live website at this link: https://ar-ashraf.github.io/threeprac/
+
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
