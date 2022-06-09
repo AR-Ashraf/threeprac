@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/threeprac/static/css/main.78ca64b6.css",
+    "main.js": "/threeprac/static/js/main.d8fdca19.js",
+    "index.html": "/threeprac/index.html",
+    "main.78ca64b6.css.map": "/threeprac/static/css/main.78ca64b6.css.map",
+    "main.d8fdca19.js.map": "/threeprac/static/js/main.d8fdca19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ca64b6.css",
+    "static/js/main.d8fdca19.js"
+  ]
+}
